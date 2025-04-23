@@ -1,4 +1,4 @@
-# employee-admin-CRUD
+# employees-admin-CRUD
 This is a simple full-stack CRUD application for managing information about employees (name, email, age, salary) using PostgreSQL, Express.js, React.js and Node.js. Application is not deployed yet, but can be run locally.
 
 ## Features
@@ -23,7 +23,7 @@ If the user enters an age less than 18, the app shows an error (as defined by th
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/dilyaraarynova/employee-admin-CRUD.git
+   git clone https://github.com/dilyaraarynova/employees-admin-CRUD.git
    cd employee-admin-CRUD
 ```
 2. Install dependencies:
