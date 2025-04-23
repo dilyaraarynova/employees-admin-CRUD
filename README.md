@@ -1,5 +1,5 @@
 # employee-admin-CRUD
-This is a simple full-stack CRUD application for managing information about employees (name, email, age, salary) using PostgreSQL, Express.js, React.js and Node.js.
+This is a simple full-stack CRUD application for managing information about employees (name, email, age, salary) using PostgreSQL, Express.js, React.js and Node.js. Application is not deployed yet, but can be run locally.
 
 ## Features
 Add, edit, and delete employee records. 
