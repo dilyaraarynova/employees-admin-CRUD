@@ -7,7 +7,9 @@ Add, edit, and delete employee records.
 <p align="center">
   <img src="./assets/screenshots/add_modal.png" width="400" />
   <img src="./assets/screenshots/age_check.png" width="400" />
+  <img src="./assets/screenshots/add_after.png" width="400" />
   <img src="./assets/screenshots/updated_after.png" width="400" />
+  <img src="./assets/screenshots/delete_before.png" width="400" />
   <img src="./assets/screenshots/delete_after.png" width="400" />
 </p>
 If the user enters an age less than 18, the app shows an error (as defined by the PostgreSQL constraint: CHECK (age > 17)).
